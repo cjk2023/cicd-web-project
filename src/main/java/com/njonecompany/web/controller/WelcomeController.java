@@ -24,7 +24,7 @@ public class WelcomeController {
     }
 
     private String getMessage() {
-        return "Hi, there NCP!!!";
+        return "Hi, there NaverCloud!";
     }
 
 }
